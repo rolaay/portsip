@@ -1,1 +1,1 @@
-export { default as SDK } from "./portsip-web-sdk";
+export { default as SDK } from "./portsip-web-sdk.js";
